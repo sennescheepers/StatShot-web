@@ -13,11 +13,12 @@ StatShot is committed to protecting your privacy. This app does **not** collect,
 
 ## What Information We Collect
 
-StatShot does not collect anything, no:
+StatShot does collect:
+- Anonymous analytics data
 
+StatShot does *not* collect:
 - Personal information  
-- Location data  
-- Usage analytics  
+- Location data   
 - Any other identifiable data
 
 ## How We Use Your Permissions
