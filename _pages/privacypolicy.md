@@ -14,7 +14,7 @@ StatShot is committed to protecting your privacy. This app does **not** collect,
 ## What Information We Collect
 
 StatShot does collect:
-- Anonymous analytics data
+- Anonymous performance data
 
 StatShot does *not* collect:
 - Personal information  
