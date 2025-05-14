@@ -2,7 +2,7 @@
 page_title                                : StatShot                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6745430902                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -15,7 +15,7 @@ app_name                                  : StatShot - Share your ride          
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Turn your Strava stats into stunning visuals.
 
-enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
@@ -40,15 +40,15 @@ features                                  :
 
   - title                                 : Strava integration
     description                           : Connect the app with Strava and share your rides
-    fontawesome_icon_name                 : strava
+    fontawesome_icon_name                 : person-biking
+
+  - title                                 : Stunning visuals
+    description                           : Get creative with the image editor to show everyone your adventure
+    fontawesome_icon_name                 : swatchbook
     
   - title                                 : Easy export
     description                           : Exporty your creation easily to all your favourite social media platoforms, or simply to your Camera Roll
     fontawesome_icon_name                 : mobile
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -57,7 +57,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/header.jpg                   # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
