@@ -41,7 +41,7 @@ features                                  :
 
   - title                                 : Strava integration
     description                           : Connect the app with Strava and share your rides
-    fontawesome_icon_name                 : strava
+    fontawesome_icon_name                 : "brands fa-strava"
 
   - title                                 : Stunning visuals
     description                           : Get creative with the image editor to show everyone your adventure
@@ -55,7 +55,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.1
+topbar_transparency                       : 0.0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/header.jpg                   # Replace with alternative image path or image URL.
