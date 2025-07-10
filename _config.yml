@@ -20,16 +20,17 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Senne Scheepers                                
+your_name                                 :                                
 your_link                                 :                      
 your_city                                 :                                 
 email_address                             : senne.scheepers@gmail.com
 linkedin_username                         :                                           
 linkedin_company                          :                                           
 facebook_username                         :                                           
-instagram_username                        : 
+instagram_username                        : statshot.app
+tiktok_username                           : statshot.app
 twitter_username                          : 
-github_username                           : sennescheepers
+github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
 
@@ -40,7 +41,7 @@ features                                  :
 
   - title                                 : Strava integration
     description                           : Connect the app with Strava and share your rides
-    fontawesome_icon_name                 : person-biking
+    fontawesome_icon_name                 : strava
 
   - title                                 : Stunning visuals
     description                           : Get creative with the image editor to show everyone your adventure
@@ -61,7 +62,7 @@ cover_image                               : assets/header.jpg                   
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : iphone                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
