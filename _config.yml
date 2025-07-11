@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : StatShot - Share your ride                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Turn your Strava stats into stunning visuals.
+app_description                           : Turn your Strava stats into stunning visuals
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -39,17 +39,25 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Strava integration
-    description                           : Connect the app with Strava and share your rides
+  - title                                 : Strava Integration
+    description                           : Seamlessly connect with Strava and turn your activities into shareable content.
     fontawesome_icon_name                 : "brands fa-strava"
 
-  - title                                 : Stunning visuals
-    description                           : Get creative with the image editor to show everyone your adventure
-    fontawesome_icon_name                 : swatchbook
+  - title                                 : Image & Video Overlays
+    description                           : Add Strava stats to both photos and videos, with styles that stand out.
+    fontawesome_icon_name                 : photo-film
     
-  - title                                 : Easy export
-    description                           : Exporty your creation easily to all your favourite social media platoforms, or simply to your Camera Roll
-    fontawesome_icon_name                 : mobile
+  - title                                 : Easy Export
+    description                           : Share your StatShot straight to Instagram, TikTok, ... Or save it to your Camera Roll in seconds.
+    fontawesome_icon_name                 : arrow-up-from-bracket
+
+  - title                                 : Built-In Crop & Fit
+    description                           : Optimized for TikTok, Instagram, and Stories. No resizing headaches.
+    fontawesome_icon_name                 : crop-simple
+
+  - title                                 : No Account Needed
+    description                           : No logins, no signups. Just open and create.
+    fontawesome_icon_name                 : user-slash
 
 
 
